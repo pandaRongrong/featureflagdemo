@@ -34,5 +34,10 @@
             <artifactId>flagd</artifactId>
             <version>0.11.3</version>
         </dependency>
+        <dependency>
+            <groupId>com.launchdarkly</groupId>
+            <artifactId>launchdarkly-java-server-sdk</artifactId>
+            <version>7.0.0</version>
+        </dependency>
     </dependencies>
 </project>
