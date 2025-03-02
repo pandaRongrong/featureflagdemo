@@ -1,6 +1,6 @@
 {
   "flags": {
-    "welcome-message2": {
+    "welcome-message": {
       "variants": {
         "on": true,
         "off": false
